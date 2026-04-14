@@ -1,6 +1,6 @@
 /* ===== CSS Variables ===== */
 :root {
-    --primary: rgb(255, 235, 85);
+    --primary: rgb(255, 85, 190);
     --primary-hover: #4f46e5;
     --primary-light: #eef2ff;
     --success: #10b981;
